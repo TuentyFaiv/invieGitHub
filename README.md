@@ -1,4 +1,4 @@
-# invieGitHub
-estudiando platzi
+# invie
+Las guitarras más locas
 
-estudiando git y github con leonidas
+http://leonidasesteban.github.io/invie-responsive/
